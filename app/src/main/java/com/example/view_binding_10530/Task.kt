@@ -1,4 +1,3 @@
 package com.example.view_binding_10530
 
-class Task {
-}
+data class Task (val chapter:String,val title:String,val details:String)
